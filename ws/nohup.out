@@ -1,0 +1,12 @@
+yarn run v1.22.22
+$ npm run build && npm run start
+
+> ws@1.0.0 build
+> tsc -b
+
+
+> ws@1.0.0 start
+> node dist/index.js
+
+error Command failed with signal "SIGKILL".
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
