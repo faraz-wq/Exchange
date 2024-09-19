@@ -1,0 +1,11 @@
+yarn run v1.22.22
+$ npm run build && WITH_SNAPSHOT=true npm run start
+
+> backend-http@1.0.0 build
+> tsc
+
+
+> backend-http@1.0.0 start
+> WITH_SNAPSHOT=true node dist/index.js
+
+connected to redis
